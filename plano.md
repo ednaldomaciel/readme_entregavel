@@ -5,7 +5,7 @@
 * **Curso:** Ciência da Computação  
 * **Autor:** Ednaldo Maciel da Silva  
 * **Data de Elaboração:** Novembro / 2026  
-* **Status Geral:** Aprovado e Implementado  
+* **Status Geral:** Aprovado 
 
 ---
 
